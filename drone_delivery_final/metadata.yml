@@ -1,0 +1,20 @@
+---
+:id: 248405041
+:submitters:
+- :name: Seung Taek Lee
+  :email: slee3321@gatech.edu
+- :name: Shalin Anand Jain
+  :email: sjain441@gatech.edu
+- :name: Sacchit Kumar Mittal
+  :email: skmittal@gatech.edu
+- :name: Anirudh Jaishankar
+  :email: ajaishankar7@gatech.edu
+- :name: Sunho Park
+  :email: spark901@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-20 01:53:52.425807000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-19 18:53:52.425807000 Z
+:status: processed
+:score: 95.45
